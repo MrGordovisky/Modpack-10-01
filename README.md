@@ -4,12 +4,12 @@ Pasta mods para amigos próximos do desenvolvedor do modpack
 
 # Mods importantes
 # No tree punching
-> Não poderemos mais quebrar árvores com a mão, agora precisaremos de um machado de flint. Além de gravetos não são feitos da mesma maneira, precisaremos de uma serra.
-> Para conseguir gravetos naturalmente precisamos quebrar folhas de árvores e para utilizar o flint precisaremos fragmentá-lo em um pedregulho clicando com o botão direito iremos adquirir "flint shards".
-> Com o flint shard e um graveto conseguiremos fazer uma faca e bater no mato para conseguir fibra.
-> Com a fibra, um graveto e um shard conseguiremos fazer o machado.
-> Para conseguir tábuas, usamos a madeira bruta junto ao machado na crafting table.
-> Mais a frente para conseguir gravetos utilizamos uma serra nas tábuas de maneira semelhante ao item anterior.
+- Não poderemos mais quebrar árvores com a mão, agora precisaremos de um machado de flint. Além de gravetos não são feitos da mesma maneira, precisaremos de uma serra.
+- Para conseguir gravetos naturalmente precisamos quebrar folhas de árvores e para utilizar o flint precisaremos fragmentá-lo em um pedregulho clicando com o botão direito iremos adquirir "flint shards".
+- Com o flint shard e um graveto conseguiremos fazer uma faca e bater no mato para conseguir fibra.
+- Com a fibra, um graveto e um shard conseguiremos fazer o machado.
+- Para conseguir tábuas, usamos a madeira bruta junto ao machado na crafting table.
+- Mais a frente para conseguir gravetos utilizamos uma serra nas tábuas de maneira semelhante ao item anterior.
 
 # Waystones
 Como não usaremos nenhum tipo de cheat nesse servidor, mas gostamos de marcar locais importantes e acessá-los com facilidade instalei o mod dos waypoints
